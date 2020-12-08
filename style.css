@@ -6,7 +6,7 @@ Lo primero es definir tres colores, los que deberían coincidir con los utilizad
 
 :root {
   --primercolor: #838a3f; 
-  --segundocolor: #AFB257; /* menos luminoso */
+  --segundocolor: #ACAF50; /* menos luminoso */
   --tercercolor: #c7d160; /* más luminoso */
   --colorclaro: rgba(249,250,245,0.8);
   --coloroscuro: rgba(0,0,0,0.8);
