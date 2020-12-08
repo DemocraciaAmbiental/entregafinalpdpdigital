@@ -113,7 +113,7 @@ aside{
 }
 
 footer{
-    color:var(--segundcolor);
+    color:var(--segundocolor);
 }
 
 footer a{
@@ -133,7 +133,7 @@ No es necesario modificar lo que sigue.
 ------------------------------------------------------------------------------------------------- */
 
 .card, .card-img-top{
-    background:var(--colorclaro);
+    background:var(--coloroscuro);
     border:none;
     border-radius: 0 0;
 }
