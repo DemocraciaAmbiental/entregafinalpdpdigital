@@ -154,7 +154,7 @@ svg#ilustracion {
 .modal, .modal-dialog, .modal-content{
     border:none;
     border-radius: 0 0;
-    color:var(--coloroscuro);    
+    color:var(--colorclaro);    
 }
 
 .modal-header h4.modal-title{
